@@ -1,25 +1,19 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/home.png" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="public/assets/home.png" />
 </h1>
 
 <h4 align="center"> 
-NextLevelWeek 1.0 🚀
+NextLevelWeek 1.0
 </h4>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/">
+ 
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ogab81/NLW1">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/">
-
-
-  <a href="https://github.com/tgmarinho/nlw1/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/">
-  </a>
-
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ogab81/NLW1">
+ 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/tgmarinho/nlw1/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/">
-  </a>
+
 </p>
 
 
@@ -48,27 +42,24 @@ NLW is an online experience with lots of practical content, challenges and hacks
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/cadstro1.png" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="public/assets/cadstro1.png" width="200px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/cadastro2.png" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="public/assets/cadastro2.png" width="200px">
 </p>
 
-## 🛠 Tecnologias
+## 🛠 Dev Technologies
 
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- [Node.js]
-- [JavaScript]
-- [HTML]
-- [CSS]
+- Node.js
+- JavaScript
+- HTML
+- CSS
 
 
-## 🚀 Como executar o projeto
+## Como executar o projeto
 
 Podemos considerar este projeto como sendo divido em três partes:
 1. Back End (pasta server) 
 2. Front End (pasta web)
-3. Mobile (pasta mobile)
 
 💡Tanto o Front End quanto o Mobile precisam que o Back End esteja sendo executado para funcionar.
 
@@ -134,7 +125,7 @@ $ npm run start
 
 Este projeto esta sobe a licença MIT.
 
-Feito Thiago Marinho 👋🏽 [Entre em contato!](https://www.linkedin.com/in/)
+Feito por 👋🏽 [Entre em contato!](https://www.linkedin.com/in/)
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
