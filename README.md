@@ -33,7 +33,7 @@ Companies or entities may register on the web platform by sending:
   - organic waste
   - kitchen oil
 
-Project developed during ** NLW - Next Level Week ** offered by ** Rocketseat **, a online development school.
+Project developed during **NLW - Next Level Week** offered by [**Rocketseat**][rs], a online development school.
 NLW is an online experience with lots of practical content, challenges and hacks where the content is available for a week.
 
 
@@ -42,8 +42,9 @@ NLW is an online experience with lots of practical content, challenges and hacks
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="public/assets/cadstro1.png" width="200px">
-
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="public/assets/modal-home.png" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="public/assets/results.png" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="public/assets/cadastro1.png" width="200px">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="public/assets/cadastro2.png" width="200px">
 </p>
 
@@ -54,53 +55,18 @@ NLW is an online experience with lots of practical content, challenges and hacks
 - HTML
 - CSS
 
+### Requirements
 
-## Como executar o projeto
+The basic tools needed to run this application are [Node.js][nodejs], [Git](https://git-scm.com) and a code editor, I choose to use [VSCode][vscode]
 
-Podemos considerar este projeto como sendo divido em três partes:
-1. Back End (pasta server) 
-2. Front End (pasta web)
-
-💡Tanto o Front End quanto o Mobile precisam que o Back End esteja sendo executado para funcionar.
-
-### Pré-requisitos
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js][nodejs]. 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode][vscode]
-
-### 🎲 Rodando o Back End (servidor)
+### Running the aplicattion (Front End)
 
 ```bash
-# Clone este repositório
-$ git clone 
+# Clone this repsitory
+$ git clone https://github.com/ogab81/NLW1
 
-# Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
-
-# Vá para a pasta server
-$ cd server
-
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
-
-# O servidor inciará na porta:3333 - acesse http://localhost:3333 
-```
-
-### 🧭 Rodando a aplicação web (Front End)
-
-```bash
-# Clone este repositório
-$ git clone 
-
-# Acesse a pasta do projeto no seu terminal/cmd
-$ cd nlw1
-
-# Vá para a pasta da aplicação Front End
-$ cd web
+# Acess the projects folder on terminal/cmd
+$ cd NLW1
 
 # Instale as dependências
 $ npm install
@@ -112,27 +78,21 @@ $ npm run start
 ```
 
 
-## 😯 Como contribuir para o projeto
+## Make more of this project
 
-1. Faça um **fork** do projeto.
-2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
-4. Envie as suas alterações: `git push origin my-feature`
-> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
+1. **fork** the project
+2. Create a new branch with your features : `git checkout -b my-feature`
+3. Save your changes : `git commit -m "feature: My new feature"`
+4. Send back to GitHub: `git push origin my-feature`
+> Some more info to make contributions on projects [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
 
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença MIT.
-
-Feito por 👋🏽 [Entre em contato!](https://www.linkedin.com/in/)
+Under MIT licence.
+By Gabe Portela 👋🏽 [Contact!](https://www.linkedin.com/in/gabriel-portela-788a25170/)
 
 [nodejs]: https://nodejs.org/
-[typescript]: https://www.typescriptlang.org/
-[expo]: https://expo.io/
-[reactjs]: https://reactjs.org
-[rn]: https://facebook.github.io/react-native/
-[yarn]: https://yarnpkg.com/
 [vscode]: https://code.visualstudio.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [license]: https://opensource.org/licenses/MIT
