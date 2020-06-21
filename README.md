@@ -45,7 +45,7 @@ NLW is an online experience with lots of practical content, challenges and hacks
   <img alt="search modal" title="#NextLevelWeek" src="public/assets/modal-home.png" width="175px">
   <img alt="search results" title="#NextLevelWeek" src="public/assets/results.png" width="150px">
   <img alt="register form" title="#NextLevelWeek" src="public/assets/cadastro1.png" width="200px">
-  <img alt="register materials" title="#NextLevelWeek" src="public/assets/cadastro2.png" width="200px">
+  <img alt="register materials" title="#NextLevelWeek" src="public/assets/cadastro2.png" width="175px">
 </p>
 
 ## 🛠 Dev Technologies
@@ -89,7 +89,7 @@ $ npm run start
 
 ## 📝 Licença
 Under MIT license.
-# By Gabe Portela 👋🏽 [Contact!](https://www.linkedin.com/in/gabriel-portela-788a25170/)
+##### By Gabe Portela 👋🏽 [Contact!](https://www.linkedin.com/in/gabriel-portela-788a25170/)
 
 [nodejs]: https://nodejs.org/
 [vscode]: https://code.visualstudio.com/
